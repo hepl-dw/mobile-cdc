@@ -10,26 +10,26 @@ Le présent cahier des charges a pour sujet la réalisation d'une application we
 
 ## Cibles de l'application
 
-Nous aimerions que cette application, dont le nom est encore à définir (n'hésitez pas à nous soumettre vos idées), soit accessible aux utilisateurs des deux systèmes les plus répandus sur le marché, iOS et Android.
+Nous aimerions que cette application, dont le nom est encore à définir (n'hésitez pas à nous soumettre vos idées), soit accessible aux utilisateurs des deux systèmes les plus répandus sur le marché, **iOS** et **Android**.
 
 Nous aimerions deux applications distinctes, adaptées au mieux aux contraintes et design de chaque système.
 
-Il est important pour nous que chaque utilisateur ait l'impression de consulter une application qui colle aux habitudes propre à son système.
+Il est important pour nous que chaque utilisateur ait l'impression de consulter une application qui colle aux habitudes propres à son système.
 
 ## Nom, apparence graphique et interface
 
 La compagnie de **Chemin de Fer Hygiénique d'Ankh-Morpork & des Plaines de Sto**, encore relativement récente, n'a guère de logo ni d'indentité propre, vous avez donc tout le loisir de créer un début d'identité pour nous.
 
-Concernant les applications, il vous sera nécéssaire de créer des design pour les interfaces, ainsi que de concevoir l'icône de l'application.
+Concernant les applications, il vous sera nécéssaire de créer des designs pour les interfaces, ainsi que de concevoir l'icône de l'application.
 
 Comme précisé plus haut, nous insistons sur la nécéssité de créer une application dont le *look'n'feel* soit le plus proche possible des codes en place sur les systèmes visés.  
 Nous avons cru comprendre qu'il existait des *guidelines*, des documents à même de vous indiquer les choses à faire et ne pas faire en fonction du système.
 
-Toutefois, il est important pour nous de garder un rappel graphique du fait que nos utilisateurs sont en train d'utiliser l'application de la compagnie de **Chemin de Fer Hygiénique d'Ankh-Morpork & des Plaines de Sto**
+Toutefois, il est important pour nous de garder un rappel graphique du fait que nos utilisateurs sont en train d'utiliser l'application de la compagnie de **Chemin de Fer Hygiénique d'Ankh-Morpork & des Plaines de Sto**.
 
 ## Contenu de l'application
 
-Nous ne sommes que peu au fait des usages en cours dans les applications de ce type, et vous faisons entièrement confiance pour la conception des interfaces et des écrans (ainsi que de leur ordre/présentation) de l'application.
+Nous ne sommes que peu au fait des usages en cours dans les applications de ce type, et vous faisons entièrement confiance pour la conception des interfaces et des écrans (ainsi que de leur ordre/présentation).
 
 Toutefois, il est impératif pour nous que l'application puisse permettre à ses utilisateurs : 
 
@@ -48,7 +48,7 @@ Votre tâche est donc de concevoir deux prototypes d'intéraction, un pour **iOS
 
 Vous serez en charge de créer le design, penser les interfaces et éventuelles animations.
 
-La charge de développement (serveur et app) sera réalisée par un autre prestataire.
+La charge de *développement* (serveur et app) sera réalisée par un autre prestataire.
 
 * * *
 
