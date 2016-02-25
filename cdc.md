@@ -44,7 +44,7 @@ Toutefois, il est impératif pour nous que l'application puisse permettre à ses
 
 ## Périmètre de travail
 
-Votre tâche est donc de concevoir deux prototypes d'intéraction, un pour **iOS** et l'autre pour **Android**, en utilisant les langages `HTML`, `CSS` et `JavaScript`.
+Votre tâche est donc de concevoir deux prototypes d'interaction, un pour **iOS** et l'autre pour **Android**, en utilisant les langages `HTML`, `CSS` et `JavaScript`.
 
 Vous serez en charge de créer le design, penser les interfaces et éventuelles animations.
 
@@ -65,4 +65,4 @@ Nous aimerions toutefois baliser votre travail en suivant les étapes suivantes 
 
 ## Livraison
 
-Bien que nous serons présents à vos côtés lors du processus de développement, nous aimerions soummettre votre travail à un panel de professionels, dans le cadre d'un jury d'évaluation, dont la date vous sera fournie ultérieurement.
+Bien que nous serons présents à vos côtés lors du processus de développement, nous aimerions soumettre votre travail à un panel de professionnels, dans le cadre d'un jury d'évaluation, dont la date vous sera fournie ultérieurement.
