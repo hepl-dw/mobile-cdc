@@ -1,6 +1,6 @@
 # Mobile CDC
 
-> Specifications (CDC) for the main project of wbedesign/mobile course at HEPL.
+> Specifications (CDC) for the main project of webdesign/mobile course at HEPL.
 
 * * *
 
